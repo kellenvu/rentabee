@@ -6,6 +6,4 @@ These are the Unity scripts for a project called Rentabee that I developed with 
 
 You can play the finished product [here](https://kalechipps.itch.io/rentabee).
 
-<img src='https://imgur.com/lRaOpPI.gifv' width='400' alt='Demo' />
-
-[img]https://imgur.com/lRaOpPI.gifv[/img]
+<img src='https://i.imgur.com/lRaOpPI.gif' width='400' alt='Demo' />
